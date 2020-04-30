@@ -1,12 +1,12 @@
 {
   "products": [
-    {"id": 1, "category": "Sporting Goods", "price": "$49.99", "stocked": true, "name": "Football"},
-    {"id": 2, "category": "Sporting Goods", "price": "$9.99", "stocked": true, "name": "Baseball"},
-    {"id": 3, "category": "Sporting Goods", "price": "$29.99", "stocked": false, "name": "Basketball"},
-    {"id": 4, "category": "Electronics", "price": "$99.99", "stocked": true, "name": "iPod Touch"},
-    {"id": 5, "category": "Electronics", "price": "$399.99", "stocked": false, "name": "iPhone 5"},
-    {"id": 6, "category": "Electronics", "price": "$199.99", "stocked": true, "name": "Nexus 7"},
-    {"id": 7, "category": "Electronics", "price": "$570.00", "stocked": true, "name": "Mac Book Pro"},
-    {"id": 8, "category": "Electronics", "price": "$320.99", "stocked": true, "name": "Dell"}
+    {"id": 1, "category": "Sporting Goods", "price": "$49.99", "stocked": true, "name": "Football", "description": "Footbal Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" },
+    {"id": 2, "category": "Sporting Goods", "price": "$9.99", "stocked": true, "name": "Baseball", "description": "Baseball Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" },
+    {"id": 3, "category": "Sporting Goods", "price": "$29.99", "stocked": false, "name": "Basketball", "description": "Basketball Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" },
+    {"id": 4, "category": "Electronics", "price": "$99.99", "stocked": true, "name": "iPod Touch", "description": "iPod Touch Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" },
+    {"id": 5, "category": "Electronics", "price": "$399.99", "stocked": false, "name": "iPhone 5", "description": "iPhone 5 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" },
+    {"id": 6, "category": "Electronics", "price": "$199.99", "stocked": true, "name": "Nexus 7", "description": "Nexus 7 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" },
+    {"id": 7, "category": "Electronics", "price": "$570.00", "stocked": true, "name": "Mac Book Pro", "description": "Mac Book Pro Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" },
+    {"id": 8, "category": "Electronics", "price": "$320.99", "stocked": true, "name": "Dell", "description": "Dell Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s" }
   ]
 }
